@@ -12,3 +12,5 @@ use --no-ff
 finished feature-B,and edit again on dev
 
 new edit on dev 
+
+fix issue-102
