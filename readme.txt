@@ -17,3 +17,4 @@ test stash
 -----
 finished feature-B,and edit again on dev
 >>>>>>> dev
+fixed issue-103
