@@ -20,4 +20,7 @@ building new code...
 =======
 >>>>>>> dev
 fixed issue-103
+<<<<<<< HEAD
+>>>>>>> a083d1a... fixed issue-103
+=======
 >>>>>>> a083d1a... fixed issue-103
