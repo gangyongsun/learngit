@@ -10,3 +10,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 ======
 use --no-ff
+======
+test stash
